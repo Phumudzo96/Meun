@@ -1,0 +1,7 @@
+iteam1 = input("Enter your first favorite foood? ")
+iteam2 = input("Enter your second favorite foood? ")
+iteam3 = input("Enter your third favorite foood? ")
+print("Order confirmation! You have ordered: ")
+print(iteam1)
+print(iteam2)
+print(iteam3)
