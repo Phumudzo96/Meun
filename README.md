@@ -8,6 +8,6 @@ Print each item separately.
 E.g. your program could print:
 Order conﬁrmation! You have ordered:
 
-Chicken nuggets
-Fish and chips
+Chicken nuggets,
+Fish and chips,
 Spaghetti bolognaise
